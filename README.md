@@ -1,5 +1,4 @@
 # Bayesian simultaneous partial envelope model with application to an imaging genetics analysis
-
 ======= README: Description for R Code =======
 
 This README provides a description related to the numerical studies in the paper:
